@@ -21,4 +21,7 @@ Comandos de terminal
 |  alias npmd="npm run dev"|   Se usa para levantar servidores de desarrollo locales.|
 | alias rm="trash"  |   Se usa para evitar eliminar permanente los archivos.|
 
+<!---
+Direccion pagina: http://localhost:8080/darktragedy/index.html
+-->
 
