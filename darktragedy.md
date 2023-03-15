@@ -34,5 +34,6 @@ Comandos Alias:
 
 <!---
 Dirección pagina: http://localhost:8080/darktragedy/index.html
+ejecutar: npx @11ty/eleventy --serve
 -->
 
