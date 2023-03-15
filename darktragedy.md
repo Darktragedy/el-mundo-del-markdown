@@ -33,6 +33,6 @@ Comandos Alias:
 <!--
 
 <!---
-Direccion pagina: http://localhost:8080/darktragedy/index.html
+Dirección pagina: http://localhost:8080/darktragedy/index.html
 -->
 
